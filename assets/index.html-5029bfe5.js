@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,b as n}from"./app-bcbb7a66.js";const c={},s=n("p",null,"This part is mainly about different code language.",-1),a=[s];function r(_,i){return t(),o("div",null,a)}const f=e(c,[["render",r],["__file","index.html.vue"]]);export{f as default};
