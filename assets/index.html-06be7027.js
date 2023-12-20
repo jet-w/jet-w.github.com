@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,b as n}from"./app-a7b366b7.js";const s={},c=n("p",null,"This category will show something related with Ruby language.",-1),r=[c];function _(a,l){return t(),o("div",null,r)}const h=e(s,[["render",_],["__file","index.html.vue"]]);export{h as default};
