@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,b as c}from"./app-e8e80e36.js";const a={},n=c("p",null,"Collect all articles that can not be categorized into a particular category.",-1),r=[n];function l(s,_){return t(),o("div",null,r)}const f=e(a,[["render",l],["__file","index.html.vue"]]);export{f as default};
