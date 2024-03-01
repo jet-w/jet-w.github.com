@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,b as c}from"./app-2e4e6bfe.js";const s={},n=c("p",null,"basic algorithms",-1),_=[n];function r(a,i){return t(),o("div",null,_)}const m=e(s,[["render",r],["__file","index.html.vue"]]);export{m as default};
