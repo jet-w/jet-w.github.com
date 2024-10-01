@@ -12,7 +12,7 @@ output:
     df_print: paged
 ---
 
-[Project on my blog](https://seamice.github.io/unisa/2023SP5/AdvancedAnalyticTechniques2/project.html) \>Password: #Thuc
+[Project on my blog](https://jet-w.github.io/unisa/2023SP5/AdvancedAnalyticTechniques2/project.html) \>Password: #Thuc
 
 [Project on google collaboration](https://colab.research.google.com/drive/13V7I9g8k69c61NJzuwc80PwrOwM-Dz-0?usp=sharing)
 
@@ -27,7 +27,7 @@ library(bnlearn)
 
 ```{r message=FALSE, warning=FALSE}
 data <- read_csv(
-  "https://seamice.github.io/data/unisa/AdvancedAnalytic2/project/BRCA_RNASeqv2_top50.csv", 
+  "https://jet-w.github.io/data/unisa/AdvancedAnalytic2/project/BRCA_RNASeqv2_top50.csv", 
   col_names = TRUE
 )
 data.no.class <- data %>% select(-class)
