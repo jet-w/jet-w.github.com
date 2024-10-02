@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,b as c}from"./app-0454504e.js";const n={},s=c("p",null,"The hyper exists two components, one is Hyper-V manager and another one is Hyper-V server.",-1),r=[s];function _(a,i){return o(),t("div",null,r)}const m=e(n,[["render",_],["__file","00.basic_concept.html.vue"]]);export{m as default};
